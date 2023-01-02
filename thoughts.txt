@@ -1,0 +1,26 @@
+render objects
+    some static physics
+    some player
+        detect player
+
+on use press on device
+    call on object `use` method
+
+on use press on lying object
+    try to pick up
+
+on tool click
+    pass target array to tool using `action` method
+
+on weapon fire
+
+on damage
+
+on wire signal
+
+on gas moving
+
+on put object into container
+
+device isLying => device on the toolbar => constructed device => used device
+							use											action								use

@@ -1,0 +1,42 @@
+Plan:
+	✔ Draw walls @done(21-12-27 18:40)
+	Janitor:
+		☐ Dirt
+	Doors:
+		☐ Render
+		☐ Access manager
+	Profession:
+		☐ Supervisors
+		☐ Duties
+	Gases:
+		☐ Air
+	Light:
+		☐ Field of view
+
+Improvements:
+	☐ WASD controls
+	☐ Fix: stacking in the pixel when moving near the wall
+	☐ Smaller player body
+	☐ Save when boolet is flying
+
+Info:
+	http://www.ss13.eu/wiki/index.php/Main_Page
+
+Notes:
+	☐ Containers
+		https://labs.phaser.io/edit.html?src=src/actions/grid%20align.js&v=3.55.2
+	☐ Moving station parts or ships
+		https://labs.phaser.io/edit.html?src=src/actions/inc%20x%20layers.js&v=3.55.2
+	☐ Black hole or portal
+		https://labs.phaser.io/edit.html?src=src/actions/place%20on%20a%20circle%20multi.js&v=3.55.2
+		https://labs.phaser.io/edit.html?src=src/actions/place%20on%20a%20circle%20reversed.js&v=3.55.2
+	☐ Pointer
+		https://labs.phaser.io/edit.html?src=src/input/camera/graphics%20contains.js&v=3.55.2
+	☐ Cameras
+		https://labs.phaser.io/edit.html?src=src/input/camera/multi%20cam%20sprite.js&v=3.55.2
+	☐ Controls (ghost mode)
+		https://labs.phaser.io/edit.html?src=src/input/camera/multi%20cam%20sprite.js&v=3.55.2
+	☐ Move
+		https://labs.phaser.io/edit.html?src=src/input/camera/world%20coordinates.js&v=3.55.2
+	☐ Cursor
+		https://phaser.io/examples/v3/category/input/cursors
